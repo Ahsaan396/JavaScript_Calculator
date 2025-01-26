@@ -1,1 +1,1 @@
-console.log("Hello Js calculator")
+console.log("Hello Js calculator");
